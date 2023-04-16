@@ -1,0 +1,12 @@
+{
+    "name": "com.kingdox.uniflux.updates",
+    "displayName": "UniFlux.Updates",
+    "author": { "name": "Xavier Thomas Peter Arpa López ('Kingdox')", "url": "https://github.com/kingdox/Uniflux.Updates" },
+    "version": "1.0.0",
+    "unity": "2020.1",
+    "description": "Update module with UniFlux.",
+    "keywords": [ "Flux", "Unity", "UniFlux"],
+    "license": "MIT",
+    "category": "Flux",
+    "dependencies": {}
+}
